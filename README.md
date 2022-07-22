@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sdvgeek2 aka Pam
+- 👀 I’m interested in computers and programming of course :) but also music
+- 🌱 I’m currently working on my dev portfolio 
